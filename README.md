@@ -3,6 +3,7 @@
 ## Getting Started
 
 #### 1. Import .aar file into libs
+[passwordmatter-1.0.aar](https://github.com/tyangjawi03/cekpassword/blob/master/passwordmatter-1.0.aar)
 
 #### 2. Implements interface Cek.CekView
     public class MainActivity extends AppCompatActivity implements Cek.CekView {
