@@ -1,4 +1,6 @@
-# Cek Password
+# Cek Password / Password Metter
+
+![ScreenShoot](CheckPasswordStrength.PNG)
 
 ## Getting Started
 
